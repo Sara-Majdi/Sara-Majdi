@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 21 | Student
 ------------
 
-I recently finished my studies in Diploma in Computer Science at INTI College, Penang. In the course , I learned languages like Python, C++, Xamarin and Java as well as softwares including Oracle, Ubuntu, Suse Linux and R Studio. I am currently pursuing my goal of learning full-stack development.
+I finished my studies, Diploma in Computer Science at INTI College, Penang. In the course , I learned languages such as Python, C++, Xamarin and Java as well as softwares including Oracle, Ubuntu, Suse Linux and R Studio. 
+<br/>
+I am currently pursuing my goal of learning full-stack development. ⚡⚡
 
 * 🌍  I'm based in PEN, Malaysia | AOR, Malaysia
 * ✉️  You can contact me at [maisarah.majdi01@gmail.com](mailto:maisarah.majdi01@gmail.com)
@@ -27,7 +29,6 @@ I recently finished my studies in Diploma in Computer Science at INTI College, P
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 ### Socials
 
