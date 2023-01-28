@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I finished my studies, Diploma in Computer Science at INTI College, Penang. Throughout the course, I have learned languages such as Python, C++, Xamarin and Java as well as softwares including Oracle, Ubuntu, Suse Linux and R Studio. 
 <br/>
+<br/>
 Currently I am pursuing my goal of learning full-stack development. ⚡⚡
 
 * 🌍  I'm based in PEN, Malaysia | AOR, Malaysia
