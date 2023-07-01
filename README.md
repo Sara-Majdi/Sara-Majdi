@@ -15,6 +15,8 @@ Currently I am pursuing my goal of learning full-stack development. ⚡⚡
 * 🤝  I'm open to collaborating on Beginner Level Projects
 * ⚡  Fun fact: HP, Microsoft, and Apple all began in a GARAGE.
 
+<br>
+
 ### Skills
 
 
@@ -31,12 +33,14 @@ Currently I am pursuing my goal of learning full-stack development. ⚡⚡
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Sara-Majdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sara_Majdi01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<br>
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/Sara-Majdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-Majdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
