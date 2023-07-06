@@ -11,7 +11,7 @@ Currently I am pursuing my goal of learning full-stack development. ⚡⚡
 
 * 🌍  I'm based in PEN, Malaysia | AOR, Malaysia
 * ✉️  You can contact me at [maisarah.majdi01@gmail.com](mailto:maisarah.majdi01@gmail.com)
-* 🔭  I’m currently working on The Complete 2023 Web Development Bootcamp
+* 🔭  I’m currently working on The Complete 2023 Web Development Bootcamp / Free Code Camp (Javascript)
 * 🤝  I'm open to collaborating on Beginner Level Projects
 * ⚡  Fun fact: HP, Microsoft, and Apple all began in a GARAGE.
 
