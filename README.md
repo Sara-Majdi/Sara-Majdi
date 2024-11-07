@@ -11,7 +11,7 @@ Currently I am pursuing my Degree in Computing as well trying to achieve my goal
 
 * 🌍  I'm based in PEN, Malaysia | AOR, Malaysia
 * ✉️  You can contact me at [maisarah.majdi01@gmail.com](mailto:maisarah.majdi01@gmail.com)
-* 🔭  I’m currently working on The Complete 2023 Web Development Bootcamp / Free Code Camp (Javascript)
+* 🔭  I’m currently brewing ideas on what to build NEXT ~
 * 🤝  I'm open to collaborating on Beginner Level Projects
 * ⚡  Fun fact: HP, Microsoft, and Apple all began in a GARAGE.
 
